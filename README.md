@@ -16,6 +16,10 @@ To start the development server with hot-reloading, run:
 npm run serve
 ```
 
+Links
+http://localhost:8080/login
+http://localhost:8080/
+
 ## Coding Practices
 
 ### State Management
